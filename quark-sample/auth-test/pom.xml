@@ -14,7 +14,7 @@
     <description>Demo project for Spring Boot</description>
 
     <properties>
-        <spring-security-core.version>5.1.5.RELEASE</spring-security-core.version>
+        <spring-security-core.version>5.1.11.RELEASE</spring-security-core.version>
     </properties>
 
     <dependencies>
